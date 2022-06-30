@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="100"/>
+  <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="400"/>
 </div>
 
 <div id="theme">
