@@ -1,9 +1,8 @@
 <div id="about-me">
-    <h2 align="center">🍀 Hi :wave: , I am Yen 🍀</h2>
-    <br>
-    <div align="center">    
-        <a href=".js-pinned-items-reorder-container" align="end">
-            <h3>Skip to my repositories</h3>     
+    <h2 align="center">🍀 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Yen 🍀</h2>
+    <div align="end">    
+        <a href=".js-pinned-items-reorder-container">
+            Skip to my repositories 
         </a>
     </div>
     <div id="header" align="center">
