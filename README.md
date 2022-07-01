@@ -41,12 +41,20 @@
 
 <div id="stats">
     <h2 align="center">🔥 And more... 🔥</h2>
-    [![NeyNey's GitHub stats](https://github-readme-stats.vercel.app/api?username=neyney2810)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="#">
+        <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyney2810&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+    <a href="#">
+        <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=neyney2810&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+    
 </div>
 
 <div id="music">
     <h2 align="center">🎵 Music is also a part of my life 🎵</h2>
-    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yiipa2uhr2jkcnuugjc3sw74yq)
+    <a href="#" title="Trungquandev">
+        <img width="434" src="https://spotify-recently-played-readme.vercel.app/api?user=31yiipa2uhr2jkcnuugjc3sw74yq"/>
+    </a>
 </div>
 
 <div id="repos"></div>
