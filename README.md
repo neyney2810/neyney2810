@@ -41,6 +41,12 @@
 
 <div id="stats">
     <h2 align="center">🔥 And more... 🔥</h2>
+    [![NeyNey's GitHub stats](https://github-readme-stats.vercel.app/api?username=neyney2810)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div id="music">
+    <h2 align="center">🎵 Music is also a part of my life 🎵</h2>
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yiipa2uhr2jkcnuugjc3sw74yq)
 </div>
 
 <div id="repos"></div>
