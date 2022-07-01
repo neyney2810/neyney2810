@@ -1,13 +1,13 @@
 <div id="about-me">
     <h2 align="center">🍀 Hi :wave: , I am Yen 🍀</h2>
     <br>
+    <a href="#choose-pinned-repositories" align="center">
+        Click here to skip to my repositories
+    </a>
     <div id="header" align="center">
         <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="400"/>
     </div>
     <br>
-    <a href="#choose-pinned-repositories">
-        <h2>Click here to skip to my repsitories</h2>
-    </a>
 </div>
 
 
