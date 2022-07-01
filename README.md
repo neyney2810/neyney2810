@@ -68,7 +68,8 @@
         </a>
     </div>
 </div>
-<br>
+<br/>
+<br/>
 <div id="music" align="center">
     <h2 align="center">🎵 Music is also a part of my life 🎵</h2>
     <a href="#" title="Trungquandev">
