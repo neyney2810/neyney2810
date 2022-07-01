@@ -47,9 +47,8 @@
     <a href="#">
         <img align="right" width="434" height="" src="https://github-readme-stats.vercel.app/api?username=neyney2810&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-    
 </div>
-
+<br>
 <div id="music">
     <h2 align="center">🎵 Music is also a part of my life 🎵</h2>
     <a href="#" title="Trungquandev" align="center">
