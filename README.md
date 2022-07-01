@@ -61,17 +61,10 @@
     <h2 align="center">🔥 And more... 🔥</h2>
     <div align="center">
         <a href="#">
-<<<<<<< HEAD
             <img width="343" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyney2810&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
         </a>
         <a href="#">
             <img align="right" width="480" height="" src="https://github-readme-stats.vercel.app/api?username=neyney2810&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-=======
-            <img width="345" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyney2810&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-        </a>
-        <a href="#">
-            <img align="right" width="475" height="" src="https://github-readme-stats.vercel.app/api?username=neyney2810&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
->>>>>>> 54638d5e2688d0c8a373b83d9467fea13e6524a4
         </a>
     </div>
 </div>
