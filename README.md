@@ -3,14 +3,15 @@
     <div align="end">    
         <a href="#repos"> Skip to my repositories </a>
     </div>
-    <div id="header" align="start">
+    <div id="header" align="start" float="left">
         <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="400"/>
+        <div id="about" align="end">
+            <p>👨‍🎓 A Business Informatics Student</p>
+            <p>🛬 A Vietnamese in Germany </p>
+            <p>🤝 Looking to collaborate on Projects, Tech Articles </p>
+        </div>
     </div>
-    <div id="about" align="end">
-        <p>👨‍🎓 A Business Informatics Student</p>
-        <p>🛬 A Vietnamese in Germany </p>
-        <p>🤝 Looking to collaborate on Projects, Tech Articles </p>
-    </div>
+
 </div>
 
 <div id="contact">
