@@ -1,17 +1,16 @@
 <div id="about-me">
     <h2 align="center">🍀 Hi :wave: , I am Yen 🍀</h2>
     <br>
-    <a href="#choose-pinned-repositories" align="center">
-        Click here to skip to my repositories
-    </a>
+    <div align="center">    
+        <a href=".js-pinned-items-reorder-container" align="end">
+            <h3>Skip to my repositories</h3>     
+        </a>
+    </div>
     <div id="header" align="center">
         <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="400"/>
     </div>
     <br>
 </div>
-
-
-
 
 <div id="contact">
     <h2 align="center">🌸 Where to find me 🌸</h2>
