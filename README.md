@@ -1,12 +1,16 @@
 <div id="about-me">
     <h2 align="center">🍀 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Yen 🍀</h2>
     <div align="end">    
-        <a href="#end"> Skip to my repositories </a>
+        <a href="#repos"> Skip to my repositories </a>
     </div>
-    <div id="header" align="center">
+    <div id="header" align="start">
         <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="400"/>
     </div>
-    <br>
+    <div id="about" align="end">
+        <p>👨‍🎓 A Business Informatics Student</p>
+        <p>🛬 A Vietnamese in Germany </p>
+        <p>🤝 Looking to collaborate on Projects, Tech Articles </p>
+    </div>
 </div>
 
 <div id="contact">
@@ -38,4 +42,4 @@
     <h2 align="center">🔥 And more... 🔥</h2>
 </div>
 
-<div id="end"></div>
+<div id="repos"></div>
