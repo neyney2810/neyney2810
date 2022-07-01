@@ -1,9 +1,7 @@
 <div id="about-me">
     <h2 align="center">🍀 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I am Yen 🍀</h2>
     <div align="end">    
-        <a href="#js-pinned-items-reorder-container">
-            Skip to my repositories 
-        </a>
+        <a href="#end"> Skip to my repositories </a>
     </div>
     <div id="header" align="center">
         <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="400"/>
@@ -39,3 +37,5 @@
 <div id="stats">
     <h2 align="center">🔥 And more... 🔥</h2>
 </div>
+
+<div id="end"></div>
